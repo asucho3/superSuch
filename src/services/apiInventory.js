@@ -1,4 +1,3 @@
-import { inventoryData } from "../../test-data/inventoryData";
 import { getProducts } from "./apiProducts";
 import supabase from "./supabase";
 

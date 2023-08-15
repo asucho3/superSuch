@@ -1,7 +1,7 @@
 import { sub } from "date-fns";
-import { inventoryData } from "../../test-data/inventoryData";
-import { productsData } from "../../test-data/productsData";
-import { salesData } from "../../test-data/salesData";
+import { inventoryData } from "../../public/test-data/inventoryData";
+import { productsData } from "../../public/test-data/productsData";
+import { salesData } from "../../public/test-data/salesData";
 import { getInventory, updateInventory } from "./apiInventory";
 import { getProducts } from "./apiProducts";
 import supabase from "./supabase";
