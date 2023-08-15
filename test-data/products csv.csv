@@ -1,0 +1,11 @@
+﻿id,created_at,product,price,active
+1,,apple,32,TRUE
+2,,orange,26,TRUE
+3,,banana,45,TRUE
+4,,kiwifruit,45,TRUE
+5,,chicken breast,45,TRUE
+6,,ravioli,40,TRUE
+7,,spaghetti,25,TRUE
+8,,cheese,42,TRUE
+9,,ham,25,TRUE
+10,,hamburger,21,TRUE

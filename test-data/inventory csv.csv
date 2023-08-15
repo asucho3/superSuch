@@ -1,0 +1,31 @@
+﻿id,created_at,product,cost,expiration,quantity,active,totalCost,productId
+1,,apple,9,,47,TRUE,423,1
+2,,orange,34,,18,TRUE,612,2
+3,,banana,5,,47,TRUE,235,3
+4,,cheese,37,,19,TRUE,703,8
+5,,ham,34,,46,TRUE,1564,9
+6,,hamburger,22,,22,TRUE,484,10
+7,,banana,8,,20,TRUE,160,3
+8,,kiwifruit,28,,45,TRUE,1260,4
+9,,chicken breast,42,,40,TRUE,1680,5
+10,,ravioli,6,,16,TRUE,96,6
+11,,apple,7,,50,TRUE,350,1
+12,,orange,33,,27,TRUE,891,2
+13,,banana,6,,33,TRUE,198,3
+14,,kiwifruit,29,,33,TRUE,957,4
+15,,chicken breast,41,,33,TRUE,1353,5
+16,,ravioli,6,,16,TRUE,96,6
+17,,spaghetti,11,,42,TRUE,462,7
+18,,cheese,40,,27,TRUE,1080,8
+19,,ham,34,,30,TRUE,1020,9
+20,,hamburger,22,,49,TRUE,1078,10
+21,,cheese,38,,39,TRUE,1482,8
+22,,ham,34,,10,TRUE,340,9
+23,,hamburger,19,,24,TRUE,456,10
+24,,banana,7,,29,TRUE,203,3
+25,,kiwifruit,28,,32,TRUE,896,4
+26,,ravioli,3,,37,TRUE,111,6
+27,,spaghetti,14,,20,TRUE,280,7
+28,,cheese,39,,10,TRUE,390,8
+29,,ham,35,,12,TRUE,420,9
+30,,ham,36,,44,TRUE,1584,9

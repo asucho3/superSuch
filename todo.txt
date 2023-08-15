@@ -1,0 +1,10 @@
+armar solapa de ventas: en esta solapa se muestran las ventas confirmadas realizadas del client-side (que todavia hay que hacer). luego de armarla cargar algunas ventas dummy
+
+solapa cuenta: que permita configurar contraseña, ver si implementar login o molesta
+
+solapa home: dashboard con graficos de:
+
+- performance por producto -> participacion en el total de ventas (pie chart)
+- inventario -> participacion sobre el capital inmovilizado (pie chart)
+- ventas del mes en curso y ventas YTD (graficos de barra o lineas)
+- algunas cards (ratio venta/stock, rotacion de inventario por producto/promedio, ventas del dia en unidades y $)
