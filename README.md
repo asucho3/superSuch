@@ -9,8 +9,7 @@ superSuch is a fake ERP software that lets you manage your business through an i
 - React (with hooks)
 - React Router
 - React Query
-- Supabase
-- Material UI
+- Also: Supabase, Material UI, Recharts
 
 # How to Install and Run the Project
 
