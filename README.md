@@ -1,4 +1,4 @@
-![supersuch logo](https://imgsuch.netlify.app/img/apple-touch-icon.png)
+![supersuch logo](https://supersuch.netlify.app/img/logo.png)
 
 # superSuch ERP
 
